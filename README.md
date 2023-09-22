@@ -47,8 +47,8 @@ Give the respective inputs for timing diagram and obtain the results.
 Program to implement the given logic function and to verify its operations in quartus using
 Verilog programming.
 
-Developed by: Balaji K
-RegisterNumber:  212221230011
+Developed by: Jaison Raphael V
+RegisterNumber:  212221230038
 ```
 ```
 module Logic(A,B,C,D,F1);
